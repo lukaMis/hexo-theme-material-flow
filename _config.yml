@@ -31,5 +31,5 @@ social:
   url: /atom.xml
 
 
-#  Add Google analytics tracking ID here
-# google_analytics: 
+#  Add Google analytics tracking ID here  
+google_analytics: UA-1734687-7
